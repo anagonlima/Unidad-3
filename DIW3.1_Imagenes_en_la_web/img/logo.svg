@@ -1,0 +1,9 @@
+<svg width="320" height="160" viewBox="0 0 320 160" style="background:#fff; border-radius:12px" id="logo">
+                <rect x="10" y="10" width="300" height="140" rx="18" fill="#ffe3f0" />
+                <circle cx="70" cy="80" r="40" fill="#ff6fae" />
+                <line x1="130" y1="40" x2="280" y2="40" stroke="#ff6fae" stroke-width="4" stroke-linecap="round" />
+                <polygon points="260,110 280,140 240,140" fill="#ff6fae" opacity="0.9"/>
+                 <text x="70" y="88" font-size="36" text-anchor="middle" font-family="Poppins, sans-serif" fill="white">
+                    A
+                </text>
+</svg>

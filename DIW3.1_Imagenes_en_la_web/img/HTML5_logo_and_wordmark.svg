@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="HTML5_logo_and_wordmark.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="HTML5_logo_and_wordmark.png"
+   inkscape:export-xdpi="65.625"
+   inkscape:export-ydpi="65.625"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.7167969"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-width="2048"
+     inkscape:window-height="1081"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <title
+     id="title1">HTML5 Logo</title>
+  <path
+     fill="#e44d26"
+     d="M 130.31672,442.51455 74.6,107.00728 c 125.00562,33.39274 245.55688,30.25978 362.8,0 L 389.838,449.30742 255.7,512"
+     id="path2"
+     style="fill:#d99bd6;fill-opacity:1;stroke-width:0.992182"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     fill="#f16529"
+     d="M 256,480.5 V 133.20896 l 148.3,-14.44104 -38.20216,318.015"
+     id="path3"
+     sodipodi:nodetypes="cccc"
+     style="fill:#f9a9e9;fill-opacity:1;stroke-width:0.995999" />
+  <path
+     fill="#ebebeb"
+     d="m 142,176.3 h 114 v 45.4 h -64.2 l 4.2,46.5 h 60 v 45.3 H 154.4 m 2,22.8 H 202 l 3.2,36.3 50.8,13.6 v 47.4 l -93.2,-26"
+     id="path4"
+     sodipodi:nodetypes="cccccccccccccc" />
+  <path
+     fill="#fff"
+     d="M369.6 176.3H255.8v45.4h109.6M361.3 268.2H255.8v45.4h56l-5.3 59-50.7 13.6v47.2l93-25.8"
+     id="path5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Snap ITC';-inkscape-font-specification:'Snap ITC';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:408.173;display:inline;fill:#f9a9ea;fill-opacity:1"
+     x="44.268486"
+     y="210.27531"
+     id="text12"
+     transform="matrix(1.0661883,0,0,0.89510954,77.155214,-74.514998)"><tspan
+       x="44.268486"
+       y="210.27531"
+       id="tspan1">AGL</tspan></text>
+  <path
+     style="fill:#f9a9ea;fill-opacity:1"
+     d="m 255.70876,131.6405 c 68.15017,-4.65984 68.15017,-4.65984 68.15017,-4.65984 l 80.38225,-9.90216 -1.74744,2.9124 h 0.58248"
+     id="path12" />
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>HTML5 Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
